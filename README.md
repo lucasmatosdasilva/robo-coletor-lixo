@@ -88,3 +88,35 @@ O objetivo é encontrar a ação com maior utilidade.
 ---
 
 # 📂 Estrutura do Projeto
+ProjetoIA
+│
+├── agentes.py # Implementação das arquiteturas dos agentes
+├── ambiente.py # Criação e gerenciamento do ambiente 20×20
+├── main.py # Execução da simulação e comparação
+├── resultados.txt # Resultados obtidos nos testes
+└── README.md # Documentação do projeto
+
+---
+
+# 💻 Tecnologias Utilizadas
+
+- Python 3
+- Visual Studio Code
+- Git/GitHub
+
+---
+
+# ▶️ Como Executar
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/lucasmatosdasilva/robo-coletor-lixo.git
+
+Entre na pasta:
+
+cd robo-coletor-lixo
+
+Execute o programa:
+
+python main.py
