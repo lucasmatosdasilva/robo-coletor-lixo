@@ -1,0 +1,60 @@
+
+=================================
+
+Agente: Reativo Simples
+
+Lixos coletados: 15
+
+Pontuação: 35
+
+Passos executados: 584
+
+Tempo de execução: 0.0541 ms
+
+=================================
+
+
+=================================
+
+Agente: Baseado em Modelo
+
+Lixos coletados: 15
+
+Pontuação: 35
+
+Passos executados: 584
+
+Tempo de execução: 0.0503 ms
+
+=================================
+
+
+=================================
+
+Agente: BDI
+
+Lixos coletados: 15
+
+Pontuação: 35
+
+Passos executados: 624
+
+Tempo de execução: 0.1128 ms
+
+=================================
+
+
+=================================
+
+Agente: Utilidade
+
+Lixos coletados: 15
+
+Pontuação: 35
+
+Passos executados: 556
+
+Tempo de execução: 0.0775 ms
+
+=================================
+
